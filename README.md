@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hey, I'm Ajeet Yadav  
 
-<!--
-**AjeetCodes/AjeetCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | GenAI Enthusiast | Mentor  
+💻 Tech Stack: Python | JavaScript | PHP | MySQL | React | Node.js | Django | PyTorch | Hugging Face | LangChain  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 5+ years of experience in **software engineering**  
+- 🧠 Passionate about **Generative AI, RAG, and PEFT**  
+- 💡 Love building **practical projects and experimenting with new technologies**  
+- 🎥 Sharing knowledge via **YouTube & Instagram coding content**  
+- 🌱 Currently exploring **AI + Web Development** to stay ahead in tech  
+- 🤝 Open to **collaborations and contributing to open-source projects**
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C1C1C?style=flat-square)
+
+---
+
+## 📌 Featured Projects
+🔹 [🧠 RAG-based YouTube Q&A App](#) – Extracts & answers questions from YouTube videos using LangChain + Gemini  
+🔹 [🤖 Fine-tuned Transformer with PEFT](#) – Efficient fine-tuning using LoRA/PEFT with PyTorch + Hugging Face  
+🔹 🌐 Portfolio Website Template (Coming soon 🚀)  
+🔹 📊 PyTorch Learning Notebooks (Coming soon 📖)  
+
+---
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=AjeetCodes&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+## 📈 GitHub Stats
+![Ajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjeetCodes&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetCodes&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjeetCodes&theme=tokyonight)  
+
+---
+
+## 📊 Activity Graph
+[![Ajeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjeetCodes&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 👀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=AjeetCodes&label=Visitors&color=blue&style=flat)
+
+---
+
+## 📫 Connect with Me
+- 🌐 [Portfolio Website](#) (Coming soon 🚀)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ajeet-yadav-55a0861a0/)  
+- 🎥 [YouTube](https://www.youtube.com/@buildwithajeet)  
+- 📧 [Email](mailto:ajeetyadav70520300@gmail.com)  
+
+✨ *“Code. Build. Share. Inspire.”*  
