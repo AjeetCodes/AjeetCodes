@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNua2xqazNreXh3MW82YWtmYjdtNXdtbnFxeG43N2p5NnhzMTQzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Laptop Animation">
+</p>
 # 👋 Hey, I'm Ajeet Yadav  
 
 🚀 Software Engineer | GenAI Enthusiast | Mentor  
