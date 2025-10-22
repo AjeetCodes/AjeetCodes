@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNua2xqazNreXh3MW82YWtmYjdtNXdtbnFxeG43N2p5NnhzMTQzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Laptop Animation">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNua2xqazNreXh3MW82YWtmYjdtNXdtbnFxeG43N2p5NnhzMTQzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Laptop Animation">
 </p>
 
 <h1 align="center">👋 Hey, I'm Ajeet Yadav</h1>
@@ -116,8 +116,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
-> ✨*“Build AI that learns. Share knowledge that inspires.”*  
-> — Ajeet Yadav
+ ✨*“Build AI that learns. Share knowledge that inspires.”*  
+ — Ajeet Yadav
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
