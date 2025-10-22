@@ -46,7 +46,9 @@
 - 🌱 Currently exploring **AI + Web Development** to stay ahead in tech  
 - 🤝 Open to **collaborations and contributing to open-source projects**
 
----
+<p align="center">
+  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+</p>
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,7 +62,9 @@
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C1C1C?style=flat-square)
 
----
+<p align="center">
+  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+</p>
 
 ## 📌 Featured Projects
 🔹 [🧠 RAG-based YouTube Q&A App](#) – Extracts & answers questions from YouTube videos using LangChain + Gemini  
@@ -68,29 +72,39 @@
 🔹 🌐 Portfolio Website Template (Coming soon 🚀)  
 🔹 📊 PyTorch Learning Notebooks (Coming soon 📖)  
 
----
+<p align="center">
+  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+</p>
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=AjeetCodes&theme=tokyonight&no-frame=true&row=1&column=6)
 
----
+<p align="center">
+  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+</p>
 
 ## 📈 GitHub Stats
 ![Ajeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjeetCodes&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetCodes&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjeetCodes&theme=tokyonight)  
 
----
+<p align="center">
+  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+</p>
 
 ## 📊 Activity Graph
 [![Ajeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjeetCodes&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<p align="center">
+  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+</p>
 
 ## 👀 Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=AjeetCodes&label=Visitors&color=blue&style=flat)
 
----
+<p align="center">
+  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+</p>
 
 ## 📫 Connect with Me
 - 🌐 [Portfolio Website](#) (Coming soon 🚀)  
