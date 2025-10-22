@@ -1,7 +1,29 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNua2xqazNreXh3MW82YWtmYjdtNXdtbnFxeG43N2p5NnhzMTQzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Laptop Animation">
 </p>
-# 👋 Hey, I'm Ajeet Yadav  
+
+<h1 align="center">👋 Hey, I'm Ajeet Yadav</h1>
+<p align="center">
+  🚀 Software Engineer | GenAI Enthusiast | Mentor  
+</p>
+
+<p align="center">
+  <a href="https://github.com/AjeetCodes?tab=followers">
+    <img src="https://img.shields.io/github/followers/AjeetCodes?label=Follow&style=social" alt="GitHub Follow Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ajeet-yadav-55a0861a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://www.youtube.com/@buildwithajeet">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCQSaJhV7ZwOBEDIPZwYF1lA?style=social" alt="YouTube Channel Subscribers" />
+  </a>
+  <a href="mailto:ajeetyadav70520300@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ajeetyadav70520300%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+ 
 
 🚀 Software Engineer | GenAI Enthusiast | Mentor  
 💻 Tech Stack: Python | JavaScript | PHP | MySQL | React | Node.js | Django | PyTorch | Hugging Face | LangChain  
