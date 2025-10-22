@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
  
 
@@ -35,7 +35,7 @@
 💻 Tech Stack: Python | JavaScript | PHP | MySQL | React | Node.js | Django | PyTorch | Hugging Face | LangChain  
 
 <p align="center">
-  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 🌟 About Me
@@ -47,7 +47,7 @@
 - 🤝 Open to **collaborations and contributing to open-source projects**
 
 <p align="center">
-  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 🛠️ Tech Stack
@@ -63,7 +63,7 @@
 ![LangChain](https://img.shields.io/badge/-LangChain-1C1C1C?style=flat-square)
 
 <p align="center">
-  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 📌 Featured Projects
@@ -73,14 +73,14 @@
 🔹 📊 PyTorch Learning Notebooks (Coming soon 📖)  
 
 <p align="center">
-  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=AjeetCodes&theme=tokyonight&no-frame=true&row=1&column=6)
 
 <p align="center">
-  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 📈 GitHub Stats
@@ -89,21 +89,21 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AjeetCodes&theme=tokyonight)  
 
 <p align="center">
-  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 📊 Activity Graph
 [![Ajeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjeetCodes&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 👀 Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=AjeetCodes&label=Visitors&color=blue&style=flat)
 
 <p align="center">
-  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
 </p>
 
 ## 📫 Connect with Me
@@ -112,4 +112,13 @@
 - 🎥 [YouTube](https://www.youtube.com/@buildwithajeet)  
 - 📧 [Email](mailto:ajeetyadav70520300@gmail.com)  
 
-✨ *“Code. Build. Share. Inspire.”*  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+> ✨*“Build AI that learns. Share knowledge that inspires.”*  
+> — Ajeet Yadav
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%" height="3px">
+</p>
+
