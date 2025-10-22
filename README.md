@@ -22,13 +22,21 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=440&lines=Building+AI+Apps+that+Learn+from+Data...;Exploring+RAG+%7C+LLMs+%7C+PEFT+%7C+LangChain;Sharing+AI+Knowledge+through+Content!;Keep+Learning.+Keep+Building.+Keep+Inspiring." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+</p>
  
 
 🚀 Software Engineer | GenAI Enthusiast | Mentor  
 💻 Tech Stack: Python | JavaScript | PHP | MySQL | React | Node.js | Django | PyTorch | Hugging Face | LangChain  
 
----
+<p align="center">
+  <img src="https://github.com/AjeetCodes/AjeetCodes/blob/main/assets/gradient-divider.gif" width="100%" height="3px">
+</p>
 
 ## 🌟 About Me
 - 🎓 5+ years of experience in **software engineering**  
